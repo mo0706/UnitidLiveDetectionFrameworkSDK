@@ -1,0 +1,6 @@
+framework module HYUnitidFramework {
+  umbrella header "HYUnitidFramework.h"
+
+  export *
+  module * { export * }
+}
